@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-02-05 16:25-0600\n"
-"PO-Revision-Date: 2025-02-05 16:26-0600\n"
+"PO-Revision-Date: 2025-02-05 16:37-0600\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -19,8 +19,5 @@ msgstr ""
 "Generated-By: Babel 2.17.0\n"
 
 #: app.py:6
-msgid "Hello, World!"
-msgstr ""
-
 msgid "Hello, World!"
 msgstr "Bonjour, le monde!"
